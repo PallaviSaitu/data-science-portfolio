@@ -1,6 +1,6 @@
 # 📊 Dashboards
 
-This folder contains visual dashboards created using tools like Tableau for storytelling and insights.
+This folder contains visual dashboards created using Tableau for storytelling and insights.
 
 👉 View my full Tableau Public portfolio here:  
 [https://public.tableau.com/app/profile/pallavi3100/vizzes](https://public.tableau.com/app/profile/pallavi3100/vizzes)
